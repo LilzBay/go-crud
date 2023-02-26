@@ -1,2 +1,2 @@
 # GO-CRUD
-A simple CRUD API built bu Golang.
+A simple CRUD API built by Golang.
